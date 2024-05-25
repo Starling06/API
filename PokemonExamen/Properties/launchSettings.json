@@ -13,8 +13,8 @@
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
-      "launchUrl": "weatherforecast",
-      "applicationUrl": "http://localhost:5262",
+      "launchUrl": "eevee",
+      "applicationUrl": "https://pokeapi.co/",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
