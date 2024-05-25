@@ -1,0 +1,6 @@
+@PokemonExamen_HostAddress = https://pokeapi.co/
+
+GET {{PokemonExamen_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
